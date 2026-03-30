@@ -231,4 +231,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *⭐ Star this repository if you found it helpful!*</content>
-<parameter name="filePath">c:\Users\MIR SHAHADUT HOSSAIN\DATA ANALYTICS PROJECTS\CHAT GPT DATA  ANALYTICS\IPL_README.md
+<parameter name="filePath">[c:\Users\MIR SHAHADUT HOSSAIN\DATA ANALYTICS PROJECTS\CHAT GPT DATA  ANALYTICS\IPL_](https://github.com/doyancha/data_clean_practice_ipl_dframe)README.md
